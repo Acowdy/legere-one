@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Adam Cowdy"]
 description = "One, plus contrast, minus fireworks."
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/Acowdy/legere-one"
