@@ -197,7 +197,7 @@
           "boolean": {
             "color": "#D6D9E1FF",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "comment": {
             "color": "#8C929CFF",
@@ -391,13 +391,13 @@
           },
           "variable": {
             "color": "#D6D9E1FF",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "variable.special": {
             "color": "#D6D9E1FF",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "variant": {
             "color": "#D6D9E1FF",
@@ -607,7 +607,7 @@
           "boolean": {
             "color": "#18191BFF",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "comment": {
             "color": "#6C6E75FF",
@@ -801,13 +801,13 @@
           },
           "variable": {
             "color": "#18191BFF",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "variable.special": {
             "color": "#18191BFF",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "variant": {
             "color": "#18191BFF",
